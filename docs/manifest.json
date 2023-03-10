@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Abstract.html",
-          "hash": "PPetzYSq+Pb4TA8LcjdYvSW+3r1e6OafjR+ZoYa2fh0="
+          "hash": "ajFL9aN+uz9bIhdU55GhhQWwZU9NihSvzcZlcrMb508="
         }
       },
       "version": ""
@@ -20,7 +20,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Abstract.html",
-          "hash": "EpG8Uy4xCuT6tn1jZL4II2ok/3ZQ4lbwro/OVbQBu/k="
+          "hash": "WpkJsOurloQL1ghrmac1N/ET0zLNytlTCP2R1lR8ycI="
         }
       },
       "version": ""
@@ -31,7 +31,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Advanced/Advanced.html",
-          "hash": "1sTQz2W6dZZm+Lzw7ZyeCh7DsDTsQmKSkMxzCROA/ts="
+          "hash": "WVlEjFianFhcZBoDymFH5fPNNo8KXI9ecVN8JHXD1iU="
         }
       },
       "version": ""
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Abstract.html",
-          "hash": "SsotGFbbMleIKPLJxKhD6Q3LuKBqr5SxCP1LhsStzns="
+          "hash": "zLZOPOBJ7OIqKgiMVr0nxOy1ux8kUzgovZ+LHgcIZAc="
         }
       },
       "version": ""
@@ -53,7 +53,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/Easy/Easy.html",
-          "hash": "bwUrTuwk14zB87wbxd+312OtqNwlACO3k5Gz6IG/ES8="
+          "hash": "b2HFu3PxbybFrxru9Ru5l8hSD/j2nNBMPyfCTJsyzns="
         }
       },
       "version": ""
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "Concepts/toc.html",
-          "hash": "BxnblWbghB+XLPCKn+Gkq99/EkLwyXp2TvGWN987peQ="
+          "hash": "qJaOA/g6OzvQWnj4fRkHKwepTr//cHFMu3cIydA88lo="
         }
       },
       "version": ""
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "vjDPqk0qcy2oug/RrE0E2Yqeg5vIBxlJfnrGlFrMVH4="
+          "hash": "kYS3XgEt31ivAEqLkVMuFJ2FzAZFeSrGcpJUeiCNWxg="
         }
       },
       "version": ""
@@ -89,7 +89,29 @@
       "output": {
         ".html": {
           "relative_path": "reference/CoreLib.Class1.html",
-          "hash": "Y8ykGWdPhQ3xSNKej4F0rFkH3GgMu3a94g307CsWHnQ="
+          "hash": "yoot4ylLl6K8Ha1QcHDQTa+QAgQZ0SWRCoqWQgfq5TE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/CoreLib.IClass1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/CoreLib.IClass1.html",
+          "hash": "Y+Tv6AF2awPl9cThkoh5AJO6Kza6ei54aU92kJW4dJw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/CoreLib.InjectedClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/CoreLib.InjectedClass.html",
+          "hash": "/6AcQae1NPOX2XnocyPGtMAHx4B7MBQWL1Pfu6/XXV4="
         }
       },
       "version": ""
@@ -100,7 +122,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/CoreLib.html",
-          "hash": "6Q+W2I00ltd6v5W6iftGjuaqSb1PUhLy0Agt0kxR0do="
+          "hash": "ZQObXiQoQTWqnnNC99AddgLDP3YqCXYviT5sqtt8HRY="
         }
       },
       "version": ""
@@ -111,7 +133,7 @@
       "output": {
         ".html": {
           "relative_path": "reference/toc.html",
-          "hash": "x21vx4oP8d4ClTVWDX1nOVFUqGfCyjVOoOuNjMKkO5A="
+          "hash": "nLSALVScc7tLVxiaVOt/KjNgqw2fiPzmWq1Iqvd40ms="
         }
       },
       "version": ""
@@ -122,7 +144,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "qCn4hhMEygDINv4goSXJHELk99S1NA2LAi2g9VdLM30="
+          "hash": "bagYNGW2620IWfCNEtqn6XuO3P9T81jc0kJXTBhB9SM="
         }
       },
       "version": ""

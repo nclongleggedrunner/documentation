@@ -13,3 +13,162 @@ references:
   commentId: T:CoreLib.Class1
   fullName: CoreLib.Class1
   nameWithType: Class1
+- uid: CoreLib.Class1.#ctor(CoreLib.InjectedClass)
+  name: Class1(InjectedClass)
+  href: reference/CoreLib.Class1.html#CoreLib_Class1__ctor_CoreLib_InjectedClass_
+  commentId: M:CoreLib.Class1.#ctor(CoreLib.InjectedClass)
+  name.vb: New(InjectedClass)
+  fullName: CoreLib.Class1.Class1(CoreLib.InjectedClass)
+  fullName.vb: CoreLib.Class1.New(CoreLib.InjectedClass)
+  nameWithType: Class1.Class1(InjectedClass)
+  nameWithType.vb: Class1.New(InjectedClass)
+- uid: CoreLib.Class1.#ctor*
+  name: Class1
+  href: reference/CoreLib.Class1.html#CoreLib_Class1__ctor_
+  commentId: Overload:CoreLib.Class1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: CoreLib.Class1.Class1
+  fullName.vb: CoreLib.Class1.New
+  nameWithType: Class1.Class1
+  nameWithType.vb: Class1.New
+- uid: CoreLib.Class1.Method1(System.String,System.Int32,System.Object)
+  name: Method1(string, int, object)
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method1_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.Class1.Method1(System.String,System.Int32,System.Object)
+  name.vb: Method1(String, Integer, Object)
+  fullName: CoreLib.Class1.Method1(string, int, object)
+  fullName.vb: CoreLib.Class1.Method1(String, Integer, Object)
+  nameWithType: Class1.Method1(string, int, object)
+  nameWithType.vb: Class1.Method1(String, Integer, Object)
+- uid: CoreLib.Class1.Method1*
+  name: Method1
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method1_
+  commentId: Overload:CoreLib.Class1.Method1
+  isSpec: "True"
+  fullName: CoreLib.Class1.Method1
+  nameWithType: Class1.Method1
+- uid: CoreLib.Class1.Method2(System.String,System.Int32,System.Object)
+  name: Method2(string, int, object)
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method2_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.Class1.Method2(System.String,System.Int32,System.Object)
+  name.vb: Method2(String, Integer, Object)
+  fullName: CoreLib.Class1.Method2(string, int, object)
+  fullName.vb: CoreLib.Class1.Method2(String, Integer, Object)
+  nameWithType: Class1.Method2(string, int, object)
+  nameWithType.vb: Class1.Method2(String, Integer, Object)
+- uid: CoreLib.Class1.Method2*
+  name: Method2
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method2_
+  commentId: Overload:CoreLib.Class1.Method2
+  isSpec: "True"
+  fullName: CoreLib.Class1.Method2
+  nameWithType: Class1.Method2
+- uid: CoreLib.Class1.Method3(System.String,System.Int32,System.Object)
+  name: Method3(string, int, object)
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method3_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.Class1.Method3(System.String,System.Int32,System.Object)
+  name.vb: Method3(String, Integer, Object)
+  fullName: CoreLib.Class1.Method3(string, int, object)
+  fullName.vb: CoreLib.Class1.Method3(String, Integer, Object)
+  nameWithType: Class1.Method3(string, int, object)
+  nameWithType.vb: Class1.Method3(String, Integer, Object)
+- uid: CoreLib.Class1.Method3*
+  name: Method3
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method3_
+  commentId: Overload:CoreLib.Class1.Method3
+  isSpec: "True"
+  fullName: CoreLib.Class1.Method3
+  nameWithType: Class1.Method3
+- uid: CoreLib.Class1.Method4(System.String,System.Int32,System.Object)
+  name: Method4(string, int, object)
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method4_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.Class1.Method4(System.String,System.Int32,System.Object)
+  name.vb: Method4(String, Integer, Object)
+  fullName: CoreLib.Class1.Method4(string, int, object)
+  fullName.vb: CoreLib.Class1.Method4(String, Integer, Object)
+  nameWithType: Class1.Method4(string, int, object)
+  nameWithType.vb: Class1.Method4(String, Integer, Object)
+- uid: CoreLib.Class1.Method4*
+  name: Method4
+  href: reference/CoreLib.Class1.html#CoreLib_Class1_Method4_
+  commentId: Overload:CoreLib.Class1.Method4
+  isSpec: "True"
+  fullName: CoreLib.Class1.Method4
+  nameWithType: Class1.Method4
+- uid: CoreLib.IClass1
+  name: IClass1
+  href: reference/CoreLib.IClass1.html
+  commentId: T:CoreLib.IClass1
+  fullName: CoreLib.IClass1
+  nameWithType: IClass1
+- uid: CoreLib.IClass1.Method1(System.String,System.Int32,System.Object)
+  name: Method1(string, int, object)
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method1_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.IClass1.Method1(System.String,System.Int32,System.Object)
+  name.vb: Method1(String, Integer, Object)
+  fullName: CoreLib.IClass1.Method1(string, int, object)
+  fullName.vb: CoreLib.IClass1.Method1(String, Integer, Object)
+  nameWithType: IClass1.Method1(string, int, object)
+  nameWithType.vb: IClass1.Method1(String, Integer, Object)
+- uid: CoreLib.IClass1.Method1*
+  name: Method1
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method1_
+  commentId: Overload:CoreLib.IClass1.Method1
+  isSpec: "True"
+  fullName: CoreLib.IClass1.Method1
+  nameWithType: IClass1.Method1
+- uid: CoreLib.IClass1.Method2(System.String,System.Int32,System.Object)
+  name: Method2(string, int, object)
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method2_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.IClass1.Method2(System.String,System.Int32,System.Object)
+  name.vb: Method2(String, Integer, Object)
+  fullName: CoreLib.IClass1.Method2(string, int, object)
+  fullName.vb: CoreLib.IClass1.Method2(String, Integer, Object)
+  nameWithType: IClass1.Method2(string, int, object)
+  nameWithType.vb: IClass1.Method2(String, Integer, Object)
+- uid: CoreLib.IClass1.Method2*
+  name: Method2
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method2_
+  commentId: Overload:CoreLib.IClass1.Method2
+  isSpec: "True"
+  fullName: CoreLib.IClass1.Method2
+  nameWithType: IClass1.Method2
+- uid: CoreLib.IClass1.Method3(System.String,System.Int32,System.Object)
+  name: Method3(string, int, object)
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method3_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.IClass1.Method3(System.String,System.Int32,System.Object)
+  name.vb: Method3(String, Integer, Object)
+  fullName: CoreLib.IClass1.Method3(string, int, object)
+  fullName.vb: CoreLib.IClass1.Method3(String, Integer, Object)
+  nameWithType: IClass1.Method3(string, int, object)
+  nameWithType.vb: IClass1.Method3(String, Integer, Object)
+- uid: CoreLib.IClass1.Method3*
+  name: Method3
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method3_
+  commentId: Overload:CoreLib.IClass1.Method3
+  isSpec: "True"
+  fullName: CoreLib.IClass1.Method3
+  nameWithType: IClass1.Method3
+- uid: CoreLib.IClass1.Method4(System.String,System.Int32,System.Object)
+  name: Method4(string, int, object)
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method4_System_String_System_Int32_System_Object_
+  commentId: M:CoreLib.IClass1.Method4(System.String,System.Int32,System.Object)
+  name.vb: Method4(String, Integer, Object)
+  fullName: CoreLib.IClass1.Method4(string, int, object)
+  fullName.vb: CoreLib.IClass1.Method4(String, Integer, Object)
+  nameWithType: IClass1.Method4(string, int, object)
+  nameWithType.vb: IClass1.Method4(String, Integer, Object)
+- uid: CoreLib.IClass1.Method4*
+  name: Method4
+  href: reference/CoreLib.IClass1.html#CoreLib_IClass1_Method4_
+  commentId: Overload:CoreLib.IClass1.Method4
+  isSpec: "True"
+  fullName: CoreLib.IClass1.Method4
+  nameWithType: IClass1.Method4
+- uid: CoreLib.InjectedClass
+  name: InjectedClass
+  href: reference/CoreLib.InjectedClass.html
+  commentId: T:CoreLib.InjectedClass
+  fullName: CoreLib.InjectedClass
+  nameWithType: InjectedClass

@@ -4,7 +4,7 @@
 {
     /* General */
 
-    --base-font-size: 16px;
+    --base-font-size: 12px;
     --smalldevice-base-font-size: 14px; /* Base font size for devices < 1024px */
     
     --main-bg-color: #1f1f23;

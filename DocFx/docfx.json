@@ -39,7 +39,7 @@
     "dest": "../docs",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
-    "template": [ "default", "templates/singulinkfx" ],
+    "template": [ "default" ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
