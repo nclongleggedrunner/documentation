@@ -3,9 +3,9 @@
   <div>
     <div class="sidefilter">
       <form class="toc-filter">
-        <span class="glyphicon glyphicon-filter filter-icon"></span>
-        <span class="glyphicon glyphicon-remove clear-icon" id="toc_filter_clear"></span>
-        <input type="text" id="toc_filter_input" placeholder="Enter here to filter..." onkeypress="if(event.keyCode==13) {return false;}">
+        <i class="bi bi-funnel-fill filter-icon"></i>
+        <i id="toc_filter_clear" class="bi bi-x-lg clear-icon"></i>
+        <input type="text" id="toc_filter_input" placeholder="Enter here to filter..." autocomplete="off" onkeypress="if(event.keyCode==13) {return false;}">
       </form>
     </div>
     <div class="sidetoc">
@@ -13,22 +13,26 @@
 
           <ul class="nav level1">
                 <li>
-                    <span class="expand-stub"></span>
-                    <a href="Easy/Abstract.html" name="" title="Easy">Easy</a>
+                      <span class="expand-stub"></span>
+                      <a href="Easy/Abstract.html" class="sidebar-item" name="" title="Easy">Easy</a>
+        
 
                     <ul class="nav level2">
                           <li>
-                              <a href="Easy/Easy.html" name="" title="Easy Overview Title">Easy Overview Title</a>
+                                <a href="Easy/Easy.html" class="sidebar-item" name="" title="Easy Overview Title">Easy Overview Title</a>
+        
                           </li>
                     </ul>
                 </li>
                 <li>
-                    <span class="expand-stub"></span>
-                    <a href="Advanced/Abstract.html" name="" title="Advanced">Advanced</a>
+                      <span class="expand-stub"></span>
+                      <a href="Advanced/Abstract.html" class="sidebar-item" name="" title="Advanced">Advanced</a>
+        
 
                     <ul class="nav level2">
                           <li>
-                              <a href="Advanced/Advanced.html" name="" title="Advanced Overview Title">Advanced Overview Title</a>
+                                <a href="Advanced/Advanced.html" class="sidebar-item" name="" title="Advanced Overview Title">Advanced Overview Title</a>
+        
                           </li>
                     </ul>
                 </li>
