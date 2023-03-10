@@ -84,12 +84,45 @@
       "version": ""
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/CoreLib.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/CoreLib.Class1.html",
+          "hash": "25oTC1kAytIfy+OEjhBy1V3Xu3+4qm2XQVGqetaG5Aw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "reference/CoreLib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/CoreLib.html",
+          "hash": "7VoawNDYr2uv+GQBgr3D/Jpniwy+fzd93IIv0w3fDz8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/toc.html",
+          "hash": "EJBS/hINYhxlAglyWcgPs0j7yhtN7F7oKxshN1mmvX4="
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "NTKqfbiVabrdRTVT7GAHZ4w0gDA6k1B6LL14P+7ME6g="
+          "hash": "bagYNGW2620IWfCNEtqn6XuO3P9T81jc0kJXTBhB9SM="
         }
       },
       "version": ""
