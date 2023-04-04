@@ -5,7 +5,7 @@
 
 This is a paragraph to describe the Core **features**
 
-(73) John Mellencamp- Check It Out 2/19/2023 - YouTube
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://www.youtube.com/watch?v=9QYi4gBS_RA&list=RD9QYi4gBS_RA&start_radio=1&ab_channel=BrettGambuzza))
 
 
 ```<c#>
